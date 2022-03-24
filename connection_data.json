@@ -1,0 +1,7 @@
+{
+    "username" : "BLS",
+    "password" : "BLS2022",
+    "host" : "database.barletsystems.tech",
+    "db_name" : "Hackathon",
+    "port" : "3306"
+}
